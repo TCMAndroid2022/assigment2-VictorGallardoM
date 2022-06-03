@@ -1,3 +1,3 @@
-assignament 2:
-Victor Gallardo
-Didac Tello
+# Assignament 2:
+- Victor Gallardo
+- Didac Tello
